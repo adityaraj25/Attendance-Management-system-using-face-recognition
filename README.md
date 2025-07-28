@@ -30,4 +30,4 @@
 ## Attendance in tabular format 
 <img src='https://github.com/adityaraj25/Attendance-Management-system-using-face-recognition/blob/main/Project%20Snap/7.PNG'>
 
-## Just follow me and Star⭐ my repository
+
